@@ -1,6 +1,6 @@
 # Cold-mail-generator
 
-A software services company has built a tool using Groq, Langchain, and Streamlit. The tool lets users enter a company's career page URL. It then pulls job listings from the page and creates custom cold emails. These emails include links to portfolios, which are picked from a vector database based on the job descriptions. Here we used a dummy data set consist of 'Techstack' and 'Link' of ABC company.
+A software services company has built a tool using Groq, Langchain, and Streamlit. The tool lets users enter a company's career page URL. It then pulls job listings from the page and creates custom cold emails. These emails include links to portfolios, which are picked from a vector database based on the job descriptions. Here we used a dummy data set consist of 'Techstack' and 'Link' of ABC company. And as career link we used here Nick carrer page for real time testing our streamlit app.
 
 **For example:**
 
