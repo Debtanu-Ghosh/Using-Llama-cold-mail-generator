@@ -12,6 +12,11 @@ Ram is looking for a Principal Software Engineer. They are spending a lot of tim
 
 ![img2](./images/img1.png)
 
+# Why do we use vector database?
+- Vector database excel at finding data points that are conceptually similar, even if they don't have exact keyword matches by using vector embeddings that capture the meaning
+  of the data. Basically they calculate the ED between query and probable matches and give the result according to the shortest distance.
+
+  
 # Set-up
 
 - To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside app/.env update the value of GROQ_API_KEY with the API_KEY you created.
